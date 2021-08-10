@@ -1,0 +1,78 @@
+.box1{
+    height:37em;
+    width:90%;
+    background-color:#F2F3F4 ;
+    margin-left:80px;
+    margin-top:30px ;
+    border-radius:7px ;
+    position: fixed;
+    box-shadow:0px 0px 20px 0px #99A3A4  ;
+    }
+    .input_box > input[type="text"]{
+         position: relative;
+         left:460px;
+         height:40px;
+         width:320px;
+         padding-left:10px;
+         background-color: #F7F9F9;
+         box-shadow:0px 0px 20px 0px#A6ACAF ;
+         border: none;
+    }
+    .list_of_input{
+     position: relative;
+     top: 20px ;
+     line-height:20px;
+    }
+    .list_of_input li{
+     padding:30px;
+     background-color:white;
+     color:green ;
+     margin-top: 14px;
+      position:relative;
+      right: 20px;
+      box-shadow:0px 0px 20px 0px gray;
+     font-size:23px;
+     border-radius:10px;
+     
+    };
+    .list_of_input button{
+        background-color:white;
+        border: none;
+        float: right;
+    
+    };
+    .input_box button{
+        position: relative;
+        background-color: black;
+        color: white;
+        text-transform: uppercase;
+        height:39px;
+        border: none;
+        top:-40px;
+        left:605px;
+        width:200px;
+    }
+    .forb{
+    color:green;
+    }
+    ._img{
+    margin-left: 400px;
+    }
+    .box2{
+      overflow: scroll;
+      height:25.6em;
+      padding:20px;
+      background: white;
+    }
+    
+    .btn_add{
+     position: relative;
+     left: 710px;
+     top:-40px;
+     width:100px ;
+     height: 40px;
+     background-color:#28B463 ;
+     color:white;
+     border: none;
+     
+    }
